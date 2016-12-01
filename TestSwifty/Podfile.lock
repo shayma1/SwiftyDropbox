@@ -1,7 +1,7 @@
 PODS:
-  - Alamofire (3.5.0)
-  - SwiftyDropbox (3.3.0):
-    - Alamofire (~> 3.5)
+  - Alamofire (4.0.1)
+  - SwiftyDropbox (4.1.1):
+    - Alamofire (~> 4.0.1)
 
 DEPENDENCIES:
   - SwiftyDropbox (from `../`)
